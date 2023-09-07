@@ -1,0 +1,15 @@
+C:\Users\Scottie\Desktop\TestRepo\bin\Debug\net7.0\TestRepo.exe
+C:\Users\Scottie\Desktop\TestRepo\bin\Debug\net7.0\TestRepo.deps.json
+C:\Users\Scottie\Desktop\TestRepo\bin\Debug\net7.0\TestRepo.runtimeconfig.json
+C:\Users\Scottie\Desktop\TestRepo\bin\Debug\net7.0\TestRepo.dll
+C:\Users\Scottie\Desktop\TestRepo\bin\Debug\net7.0\TestRepo.pdb
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\TestRepo.csproj.AssemblyReference.cache
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\TestRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\TestRepo.AssemblyInfoInputs.cache
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\TestRepo.AssemblyInfo.cs
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\TestRepo.csproj.CoreCompileInputs.cache
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\TestRepo.dll
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\refint\TestRepo.dll
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\TestRepo.pdb
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\TestRepo.genruntimeconfig.cache
+C:\Users\Scottie\Desktop\TestRepo\obj\Debug\net7.0\ref\TestRepo.dll
